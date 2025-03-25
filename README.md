@@ -22,7 +22,7 @@ The **Samsung Service Center** web application is a simple and user-friendly ser
 1. **Download or Clone the Repository**
 
    ```sh
-   git clone https://github.com/your-repo/samsung-service-center.git
+   git clone https://github.com/ganeshmhetre14/samsung-service-center.git
    ```
 
 2. **Open the Project**
